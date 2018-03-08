@@ -1,0 +1,104 @@
+G:\编程兼职\上位机通讯\油品电荷监控系统2.6工程源码及档案\Charge monitoring\bin\Debug\Charge monitoring.exe.config
+G:\编程兼职\上位机通讯\油品电荷监控系统2.6工程源码及档案\Charge monitoring\bin\Debug\Charge monitoring.exe.manifest
+G:\编程兼职\上位机通讯\油品电荷监控系统2.6工程源码及档案\Charge monitoring\bin\Debug\Charge monitoring.application
+G:\编程兼职\上位机通讯\油品电荷监控系统2.6工程源码及档案\Charge monitoring\bin\Debug\Charge monitoring.exe
+G:\编程兼职\上位机通讯\油品电荷监控系统2.6工程源码及档案\Charge monitoring\bin\Debug\Charge monitoring.pdb
+G:\编程兼职\上位机通讯\油品电荷监控系统2.6工程源码及档案\Charge monitoring\obj\x86\Debug\Charge monitoring.csprojResolveAssemblyReference.cache
+G:\编程兼职\上位机通讯\油品电荷监控系统2.6工程源码及档案\Charge monitoring\obj\x86\Debug\Charge_monitoring.FormParameter.resources
+G:\编程兼职\上位机通讯\油品电荷监控系统2.6工程源码及档案\Charge monitoring\obj\x86\Debug\Charge_monitoring.Form_limit_set.resources
+G:\编程兼职\上位机通讯\油品电荷监控系统2.6工程源码及档案\Charge monitoring\obj\x86\Debug\Charge_monitoring.Form_msg.resources
+G:\编程兼职\上位机通讯\油品电荷监控系统2.6工程源码及档案\Charge monitoring\obj\x86\Debug\Charge_monitoring.Form_start.resources
+G:\编程兼职\上位机通讯\油品电荷监控系统2.6工程源码及档案\Charge monitoring\obj\x86\Debug\Charge_monitoring.Properties.Resources.resources
+G:\编程兼职\上位机通讯\油品电荷监控系统2.6工程源码及档案\Charge monitoring\obj\x86\Debug\Charge monitoring.csproj.GenerateResource.Cache
+G:\编程兼职\上位机通讯\油品电荷监控系统2.6工程源码及档案\Charge monitoring\obj\x86\Debug\Charge monitoring.exe.manifest
+G:\编程兼职\上位机通讯\油品电荷监控系统2.6工程源码及档案\Charge monitoring\obj\x86\Debug\Charge monitoring.application
+G:\编程兼职\上位机通讯\油品电荷监控系统2.6工程源码及档案\Charge monitoring\obj\x86\Debug\Charge monitoring.exe
+G:\编程兼职\上位机通讯\油品电荷监控系统2.6工程源码及档案\Charge monitoring\obj\x86\Debug\Charge monitoring.pdb
+G:\编程兼职\上位机通讯\油品电荷监控系统2.7工程源码及档案\Charge monitoring\bin\Debug\Charge monitoring.exe.config
+G:\编程兼职\上位机通讯\油品电荷监控系统2.7工程源码及档案\Charge monitoring\obj\x86\Debug\Charge monitoring.exe
+G:\编程兼职\上位机通讯\油品电荷监控系统2.7工程源码及档案\Charge monitoring\obj\x86\Debug\Charge monitoring.pdb
+G:\编程兼职\上位机通讯\油品电荷监控系统2.7工程源码及档案\Charge monitoring\bin\Debug\Charge monitoring.exe.manifest
+G:\编程兼职\上位机通讯\油品电荷监控系统2.7工程源码及档案\Charge monitoring\bin\Debug\Charge monitoring.application
+G:\编程兼职\上位机通讯\油品电荷监控系统2.7工程源码及档案\Charge monitoring\bin\Debug\Charge monitoring.exe
+G:\编程兼职\上位机通讯\油品电荷监控系统2.7工程源码及档案\Charge monitoring\bin\Debug\Charge monitoring.pdb
+G:\编程兼职\上位机通讯\油品电荷监控系统2.7工程源码及档案\Charge monitoring\obj\x86\Debug\Charge monitoring.csprojResolveAssemblyReference.cache
+G:\编程兼职\上位机通讯\油品电荷监控系统2.7工程源码及档案\Charge monitoring\obj\x86\Debug\Charge_monitoring.FormMain.resources
+G:\编程兼职\上位机通讯\油品电荷监控系统2.7工程源码及档案\Charge monitoring\obj\x86\Debug\Charge_monitoring.FormParameter.resources
+G:\编程兼职\上位机通讯\油品电荷监控系统2.7工程源码及档案\Charge monitoring\obj\x86\Debug\Charge_monitoring.Form_limit_set.resources
+G:\编程兼职\上位机通讯\油品电荷监控系统2.7工程源码及档案\Charge monitoring\obj\x86\Debug\Charge_monitoring.Form_msg.resources
+G:\编程兼职\上位机通讯\油品电荷监控系统2.7工程源码及档案\Charge monitoring\obj\x86\Debug\Charge_monitoring.Form_start.resources
+G:\编程兼职\上位机通讯\油品电荷监控系统2.7工程源码及档案\Charge monitoring\obj\x86\Debug\Charge_monitoring.Properties.Resources.resources
+G:\编程兼职\上位机通讯\油品电荷监控系统2.7工程源码及档案\Charge monitoring\obj\x86\Debug\Charge monitoring.csproj.GenerateResource.Cache
+G:\编程兼职\上位机通讯\油品电荷监控系统2.7工程源码及档案\Charge monitoring\obj\x86\Debug\Charge monitoring.exe.manifest
+G:\编程兼职\上位机通讯\油品电荷监控系统2.7工程源码及档案\Charge monitoring\obj\x86\Debug\Charge monitoring.application
+G:\编程兼职\上位机通讯\油品电荷监控系统2.8工程源码及档案\Charge monitoring\bin\Debug\Charge monitoring.exe.config
+G:\编程兼职\上位机通讯\油品电荷监控系统2.8工程源码及档案\Charge monitoring\obj\x86\Debug\Charge monitoring.exe
+G:\编程兼职\上位机通讯\油品电荷监控系统2.8工程源码及档案\Charge monitoring\obj\x86\Debug\Charge monitoring.pdb
+G:\编程兼职\上位机通讯\油品电荷监控系统2.8工程源码及档案\Charge monitoring\bin\Debug\Charge monitoring.exe.manifest
+G:\编程兼职\上位机通讯\油品电荷监控系统2.8工程源码及档案\Charge monitoring\bin\Debug\Charge monitoring.application
+G:\编程兼职\上位机通讯\油品电荷监控系统2.8工程源码及档案\Charge monitoring\bin\Debug\Charge monitoring.exe
+G:\编程兼职\上位机通讯\油品电荷监控系统2.8工程源码及档案\Charge monitoring\bin\Debug\Charge monitoring.pdb
+G:\编程兼职\上位机通讯\油品电荷监控系统2.8工程源码及档案\Charge monitoring\obj\x86\Debug\Charge monitoring.csprojResolveAssemblyReference.cache
+G:\编程兼职\上位机通讯\油品电荷监控系统2.8工程源码及档案\Charge monitoring\obj\x86\Debug\Charge_monitoring.FormMain.resources
+G:\编程兼职\上位机通讯\油品电荷监控系统2.8工程源码及档案\Charge monitoring\obj\x86\Debug\Charge_monitoring.FormParameter.resources
+G:\编程兼职\上位机通讯\油品电荷监控系统2.8工程源码及档案\Charge monitoring\obj\x86\Debug\Charge_monitoring.Form_limit_set.resources
+G:\编程兼职\上位机通讯\油品电荷监控系统2.8工程源码及档案\Charge monitoring\obj\x86\Debug\Charge_monitoring.Form_msg.resources
+G:\编程兼职\上位机通讯\油品电荷监控系统2.8工程源码及档案\Charge monitoring\obj\x86\Debug\Charge_monitoring.Form_start.resources
+G:\编程兼职\上位机通讯\油品电荷监控系统2.8工程源码及档案\Charge monitoring\obj\x86\Debug\Charge_monitoring.Properties.Resources.resources
+G:\编程兼职\上位机通讯\油品电荷监控系统2.8工程源码及档案\Charge monitoring\obj\x86\Debug\Charge monitoring.csproj.GenerateResource.Cache
+G:\编程兼职\上位机通讯\油品电荷监控系统2.8工程源码及档案\Charge monitoring\obj\x86\Debug\Charge monitoring.exe.manifest
+G:\编程兼职\上位机通讯\油品电荷监控系统2.8工程源码及档案\Charge monitoring\obj\x86\Debug\Charge monitoring.application
+G:\编程兼职\上位机通讯\油品电荷监控系统2.9工程源码及档案\Charge monitoring\bin\Debug\Charge monitoring.exe.config
+G:\编程兼职\上位机通讯\油品电荷监控系统2.9工程源码及档案\Charge monitoring\obj\x86\Debug\Charge monitoring.exe
+G:\编程兼职\上位机通讯\油品电荷监控系统2.9工程源码及档案\Charge monitoring\obj\x86\Debug\Charge monitoring.pdb
+G:\编程兼职\上位机通讯\油品电荷监控系统3.0工程源码及档案\Charge monitoring\bin\Debug\Charge monitoring.exe.config
+G:\编程兼职\上位机通讯\油品电荷监控系统3.0工程源码及档案\Charge monitoring\obj\x86\Debug\Charge monitoring.exe
+G:\编程兼职\上位机通讯\油品电荷监控系统3.0工程源码及档案\Charge monitoring\obj\x86\Debug\Charge monitoring.pdb
+G:\编程兼职\上位机通讯\油品电荷监控系统3.0工程源码及档案\Charge monitoring\bin\Debug\Charge monitoring.exe.manifest
+G:\编程兼职\上位机通讯\油品电荷监控系统3.0工程源码及档案\Charge monitoring\bin\Debug\Charge monitoring.application
+G:\编程兼职\上位机通讯\油品电荷监控系统3.0工程源码及档案\Charge monitoring\bin\Debug\Charge monitoring.exe
+G:\编程兼职\上位机通讯\油品电荷监控系统3.0工程源码及档案\Charge monitoring\bin\Debug\Charge monitoring.pdb
+G:\编程兼职\上位机通讯\油品电荷监控系统3.0工程源码及档案\Charge monitoring\obj\x86\Debug\Charge monitoring.csprojResolveAssemblyReference.cache
+G:\编程兼职\上位机通讯\油品电荷监控系统3.0工程源码及档案\Charge monitoring\obj\x86\Debug\Charge_monitoring.FormMain.resources
+G:\编程兼职\上位机通讯\油品电荷监控系统3.0工程源码及档案\Charge monitoring\obj\x86\Debug\Charge_monitoring.FormParameter.resources
+G:\编程兼职\上位机通讯\油品电荷监控系统3.0工程源码及档案\Charge monitoring\obj\x86\Debug\Charge_monitoring.Form_limit_set.resources
+G:\编程兼职\上位机通讯\油品电荷监控系统3.0工程源码及档案\Charge monitoring\obj\x86\Debug\Charge_monitoring.Form_msg.resources
+G:\编程兼职\上位机通讯\油品电荷监控系统3.0工程源码及档案\Charge monitoring\obj\x86\Debug\Charge_monitoring.Form_start.resources
+G:\编程兼职\上位机通讯\油品电荷监控系统3.0工程源码及档案\Charge monitoring\obj\x86\Debug\Charge_monitoring.Properties.Resources.resources
+G:\编程兼职\上位机通讯\油品电荷监控系统3.0工程源码及档案\Charge monitoring\obj\x86\Debug\Charge monitoring.csproj.GenerateResource.Cache
+G:\编程兼职\上位机通讯\油品电荷监控系统3.0工程源码及档案\Charge monitoring\obj\x86\Debug\Charge monitoring.exe.manifest
+G:\编程兼职\上位机通讯\油品电荷监控系统3.0工程源码及档案\Charge monitoring\obj\x86\Debug\Charge monitoring.application
+G:\编程兼职\上位机通讯\油品电荷监控系统3.1工程源码及档案\Charge monitoring\bin\Debug\Charge monitoring.exe.config
+G:\编程兼职\上位机通讯\油品电荷监控系统3.1工程源码及档案\Charge monitoring\obj\x86\Debug\Charge monitoring.exe
+G:\编程兼职\上位机通讯\油品电荷监控系统3.1工程源码及档案\Charge monitoring\obj\x86\Debug\Charge monitoring.pdb
+G:\编程兼职\上位机通讯\油品电荷监控系统3.1工程源码及档案\Charge monitoring\bin\Debug\Charge monitoring.exe.manifest
+G:\编程兼职\上位机通讯\油品电荷监控系统3.1工程源码及档案\Charge monitoring\bin\Debug\Charge monitoring.application
+G:\编程兼职\上位机通讯\油品电荷监控系统3.1工程源码及档案\Charge monitoring\bin\Debug\Charge monitoring.exe
+G:\编程兼职\上位机通讯\油品电荷监控系统3.1工程源码及档案\Charge monitoring\bin\Debug\Charge monitoring.pdb
+G:\编程兼职\上位机通讯\油品电荷监控系统3.1工程源码及档案\Charge monitoring\obj\x86\Debug\Charge monitoring.csprojResolveAssemblyReference.cache
+G:\编程兼职\上位机通讯\油品电荷监控系统3.1工程源码及档案\Charge monitoring\obj\x86\Debug\Charge_monitoring.FormMain.resources
+G:\编程兼职\上位机通讯\油品电荷监控系统3.1工程源码及档案\Charge monitoring\obj\x86\Debug\Charge_monitoring.FormParameter.resources
+G:\编程兼职\上位机通讯\油品电荷监控系统3.1工程源码及档案\Charge monitoring\obj\x86\Debug\Charge_monitoring.Form_limit_set.resources
+G:\编程兼职\上位机通讯\油品电荷监控系统3.1工程源码及档案\Charge monitoring\obj\x86\Debug\Charge_monitoring.Form_msg.resources
+G:\编程兼职\上位机通讯\油品电荷监控系统3.1工程源码及档案\Charge monitoring\obj\x86\Debug\Charge_monitoring.Form_start.resources
+G:\编程兼职\上位机通讯\油品电荷监控系统3.1工程源码及档案\Charge monitoring\obj\x86\Debug\Charge_monitoring.Properties.Resources.resources
+G:\编程兼职\上位机通讯\油品电荷监控系统3.1工程源码及档案\Charge monitoring\obj\x86\Debug\Charge monitoring.csproj.GenerateResource.Cache
+G:\编程兼职\上位机通讯\油品电荷监控系统3.1工程源码及档案\Charge monitoring\obj\x86\Debug\Charge monitoring.exe.manifest
+G:\编程兼职\上位机通讯\油品电荷监控系统3.1工程源码及档案\Charge monitoring\obj\x86\Debug\Charge monitoring.application
+G:\编程兼职\上位机通讯\六通道油品电荷监控系统4.0工程源码及档案\Charge monitoring\bin\Debug\Charge monitoring.exe.config
+G:\编程兼职\上位机通讯\六通道油品电荷监控系统4.0工程源码及档案\Charge monitoring\obj\x86\Debug\Charge monitoring.exe
+G:\编程兼职\上位机通讯\六通道油品电荷监控系统4.0工程源码及档案\Charge monitoring\obj\x86\Debug\Charge monitoring.pdb
+G:\编程兼职\上位机通讯\六通道油品电荷监控系统4.0工程源码及档案\Charge monitoring\bin\Debug\Charge monitoring.exe.manifest
+G:\编程兼职\上位机通讯\六通道油品电荷监控系统4.0工程源码及档案\Charge monitoring\bin\Debug\Charge monitoring.application
+G:\编程兼职\上位机通讯\六通道油品电荷监控系统4.0工程源码及档案\Charge monitoring\bin\Debug\Charge monitoring.exe
+G:\编程兼职\上位机通讯\六通道油品电荷监控系统4.0工程源码及档案\Charge monitoring\bin\Debug\Charge monitoring.pdb
+G:\编程兼职\上位机通讯\六通道油品电荷监控系统4.0工程源码及档案\Charge monitoring\obj\x86\Debug\Charge monitoring.csprojResolveAssemblyReference.cache
+G:\编程兼职\上位机通讯\六通道油品电荷监控系统4.0工程源码及档案\Charge monitoring\obj\x86\Debug\Charge_monitoring.FormMain.resources
+G:\编程兼职\上位机通讯\六通道油品电荷监控系统4.0工程源码及档案\Charge monitoring\obj\x86\Debug\Charge_monitoring.FormParameter.resources
+G:\编程兼职\上位机通讯\六通道油品电荷监控系统4.0工程源码及档案\Charge monitoring\obj\x86\Debug\Charge_monitoring.Form_limit_set.resources
+G:\编程兼职\上位机通讯\六通道油品电荷监控系统4.0工程源码及档案\Charge monitoring\obj\x86\Debug\Charge_monitoring.Form_msg.resources
+G:\编程兼职\上位机通讯\六通道油品电荷监控系统4.0工程源码及档案\Charge monitoring\obj\x86\Debug\Charge_monitoring.Form_start.resources
+G:\编程兼职\上位机通讯\六通道油品电荷监控系统4.0工程源码及档案\Charge monitoring\obj\x86\Debug\Charge_monitoring.Properties.Resources.resources
+G:\编程兼职\上位机通讯\六通道油品电荷监控系统4.0工程源码及档案\Charge monitoring\obj\x86\Debug\Charge monitoring.csproj.GenerateResource.Cache
+G:\编程兼职\上位机通讯\六通道油品电荷监控系统4.0工程源码及档案\Charge monitoring\obj\x86\Debug\Charge monitoring.exe.manifest
+G:\编程兼职\上位机通讯\六通道油品电荷监控系统4.0工程源码及档案\Charge monitoring\obj\x86\Debug\Charge monitoring.application
